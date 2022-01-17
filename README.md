@@ -5,7 +5,7 @@ A Junior Web Developer, Born and raise in Iligan City, Philippines. With high se
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Bootstrap, Laravel...
+Javascript, HTML, CSS, Bootstrap, Laravel, Wordpress...
 
 
 ## 🔗 Connect with me
