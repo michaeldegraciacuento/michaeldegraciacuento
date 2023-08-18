@@ -1,11 +1,11 @@
 
 # You can call me MAC! 👋
 
-A Junior Web Developer, Born and raise in Iligan City, Philippines. With high self motivation and dedicated to a new learnings...
+A Full Stack Web Developer, Born and raise in Iligan City, Philippines. With high self motivation and dedicated to a new learnings...
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Bootstrap, Laravel, Wordpress...
+Javascript jQuery, HTML, CSS, Bootstrap, Laravel,PHP, Vue.js, Git, cPanel, MySQL, Wordpress...
 
 
 ## 🔗 Connect with me
